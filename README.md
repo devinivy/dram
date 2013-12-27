@@ -1,7 +1,7 @@
 dram
 ====
 
-Distributing record adorning MySQL
+Distributive record adorning MySQL
 
 
 dram is a souped-up, schema-aware MySQL wrapper.  The Record class is meant to be extended for database-backed objects within your potentially kickarse web app.  Largely inspired by jQuery chaining and collections.
